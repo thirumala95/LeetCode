@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thirumala95/LeetCode/tree/master/0001-two-sum) |
 | [0283-move-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0283-move-zeroes) |
+| [2058-concatenation-of-array](https://github.com/thirumala95/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0283-move-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/thirumala95/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
