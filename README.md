@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thirumala95/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/thirumala95/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/thirumala95/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -13,9 +14,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thirumala95/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/thirumala95/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
 | [2383-add-two-integers](https://github.com/thirumala95/LeetCode/tree/master/2383-add-two-integers) |
 ## Two Pointers
 |  |
@@ -29,4 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/thirumala95/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
