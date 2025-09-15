@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/thirumala95/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/thirumala95/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thirumala95/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/thirumala95/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/thirumala95/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/thirumala95/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/thirumala95/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/thirumala95/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thirumala95/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/thirumala95/LeetCode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/thirumala95/LeetCode/tree/master/0680-valid-palindrome-ii) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thirumala95/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/thirumala95/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/thirumala95/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/thirumala95/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/thirumala95/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
