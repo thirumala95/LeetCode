@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/thirumala95/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/thirumala95/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/thirumala95/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/thirumala95/LeetCode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thirumala95/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/thirumala95/LeetCode/tree/master/1922-count-good-numbers) |
