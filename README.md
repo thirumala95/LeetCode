@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/thirumala95/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/thirumala95/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/thirumala95/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/thirumala95/LeetCode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/thirumala95/LeetCode/tree/master/0118-pascals-triangle) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thirumala95/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/thirumala95/LeetCode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/thirumala95/LeetCode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thirumala95/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/thirumala95/LeetCode/tree/master/0179-largest-number) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/thirumala95/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/thirumala95/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/thirumala95/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/thirumala95/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thirumala95/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/thirumala95/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/thirumala95/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/thirumala95/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/thirumala95/LeetCode/tree/master/0090-subsets-ii) |
 ## Number Theory
 |  |
