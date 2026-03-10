@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/thirumala95/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/thirumala95/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/thirumala95/LeetCode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/thirumala95/LeetCode/tree/master/0282-expression-add-operators) |
 | [0507-perfect-number](https://github.com/thirumala95/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/thirumala95/LeetCode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thirumala95/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/thirumala95/LeetCode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/thirumala95/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0282-expression-add-operators](https://github.com/thirumala95/LeetCode/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/thirumala95/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/thirumala95/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/thirumala95/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/thirumala95/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/thirumala95/LeetCode/tree/master/0090-subsets-ii) |
+| [0282-expression-add-operators](https://github.com/thirumala95/LeetCode/tree/master/0282-expression-add-operators) |
 ## Number Theory
 |  |
 | ------- |
