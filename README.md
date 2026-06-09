@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/thirumala95/LeetCode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/thirumala95/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1019-next-greater-node-in-linked-list](https://github.com/thirumala95/LeetCode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thirumala95/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2058-concatenation-of-array](https://github.com/thirumala95/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thirumala95/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/thirumala95/LeetCode/tree/master/2643-row-with-maximum-ones) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/thirumala95/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/thirumala95/LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/thirumala95/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thirumala95/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
