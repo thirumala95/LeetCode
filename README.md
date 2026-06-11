@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/thirumala95/LeetCode/tree/master/1922-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/thirumala95/LeetCode/tree/master/2383-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/thirumala95/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumala95/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -422,12 +423,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/thirumala95/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thirumala95/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumala95/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/thirumala95/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thirumala95/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumala95/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
