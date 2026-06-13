@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thirumala95/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/thirumala95/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/thirumala95/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/thirumala95/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/thirumala95/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thirumala95/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/thirumala95/LeetCode/tree/master/0054-spiral-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/thirumala95/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/thirumala95/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/thirumala95/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/thirumala95/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/thirumala95/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/thirumala95/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/thirumala95/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/thirumala95/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/thirumala95/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/thirumala95/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/thirumala95/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/thirumala95/LeetCode/tree/master/0148-sort-list) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thirumala95/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/thirumala95/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/thirumala95/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thirumala95/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/thirumala95/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
