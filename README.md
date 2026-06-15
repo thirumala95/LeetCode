@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/thirumala95/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/thirumala95/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/thirumala95/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/thirumala95/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/thirumala95/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/thirumala95/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/thirumala95/LeetCode/tree/master/0049-group-anagrams) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thirumala95/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/thirumala95/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/thirumala95/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thirumala95/LeetCode/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/thirumala95/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/thirumala95/LeetCode/tree/master/0118-pascals-triangle) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/thirumala95/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/thirumala95/LeetCode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/thirumala95/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/thirumala95/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/thirumala95/LeetCode/tree/master/0410-split-array-largest-sum) |
