@@ -1,30 +1,37 @@
+
 class Solution {
     public void nextPermutation(int[] nums) {
         int n = nums.length;
-        int ind = -1;
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] < nums[i + 1]) {
-                ind = i;
-                break;
+        int i = n - 2;
+
+        // 1. find decreasing point
+        while (i >= 0 && nums[i] >= nums[i + 1]) {
+            i--;
+        }
+
+        // 2. if not found, reverse whole array
+        if (i >= 0) {
+            int j = n - 1;
+
+            // find just greater element
+            while (nums[j] <= nums[i]) {
+                j--;
             }
+
+            // swap
+            swap(nums, i, j);
         }
-        if (ind == -1) {
-            reverse(nums, 0, n - 1);
-            return;
-        }
-        for (int i = n - 1; i > ind; i--) {
-            if (nums[i] > nums[ind]) {
-                swap(nums, i, ind);
-                break;
-            }
-        }
-        reverse(nums, ind + 1, n - 1);
+
+        // 3. reverse right part
+        reverse(nums, i + 1, n - 1);
     }
+
     private void swap(int[] nums, int i, int j) {
         int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;
     }
+
     private void reverse(int[] nums, int l, int r) {
         while (l < r) {
             swap(nums, l++, r--);
