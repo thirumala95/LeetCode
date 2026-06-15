@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/thirumala95/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/thirumala95/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/thirumala95/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/thirumala95/LeetCode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thirumala95/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thirumala95/LeetCode/tree/master/0075-sort-colors) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/thirumala95/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/thirumala95/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/thirumala95/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/thirumala95/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/thirumala95/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/thirumala95/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thirumala95/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/thirumala95/LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/thirumala95/LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/thirumala95/LeetCode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/thirumala95/LeetCode/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/thirumala95/LeetCode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/thirumala95/LeetCode/tree/master/0410-split-array-largest-sum) |
