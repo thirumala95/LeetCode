@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thirumala95/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/thirumala95/LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/thirumala95/LeetCode/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/thirumala95/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thirumala95/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/thirumala95/LeetCode/tree/master/0075-sort-colors) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/thirumala95/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/thirumala95/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/thirumala95/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/thirumala95/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thirumala95/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thirumala95/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/thirumala95/LeetCode/tree/master/0202-happy-number) |
