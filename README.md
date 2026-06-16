@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/thirumala95/LeetCode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/thirumala95/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thirumala95/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3612-process-string-with-special-operations-i](https://github.com/thirumala95/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/thirumala95/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thirumala95/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/thirumala95/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3612-process-string-with-special-operations-i](https://github.com/thirumala95/LeetCode/tree/master/3612-process-string-with-special-operations-i) |
 ## Queue
 |  |
 | ------- |
