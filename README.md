@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/thirumala95/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/thirumala95/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/thirumala95/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/thirumala95/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/thirumala95/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/thirumala95/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/thirumala95/LeetCode/tree/master/0066-plus-one) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/thirumala95/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/thirumala95/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thirumala95/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/thirumala95/LeetCode/tree/master/0258-add-digits) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thirumala95/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/thirumala95/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/thirumala95/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/thirumala95/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thirumala95/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/thirumala95/LeetCode/tree/master/0076-minimum-window-substring) |
