@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/thirumala95/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/thirumala95/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/thirumala95/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/thirumala95/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/thirumala95/LeetCode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thirumala95/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/thirumala95/LeetCode/tree/master/0202-happy-number) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/thirumala95/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/thirumala95/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thirumala95/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/thirumala95/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/thirumala95/LeetCode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/thirumala95/LeetCode/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/thirumala95/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/thirumala95/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/thirumala95/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/thirumala95/LeetCode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/thirumala95/LeetCode/tree/master/0187-repeated-dna-sequences) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/thirumala95/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/thirumala95/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/thirumala95/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/thirumala95/LeetCode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/thirumala95/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0125-valid-palindrome) |
