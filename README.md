@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/thirumala95/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/thirumala95/LeetCode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/thirumala95/LeetCode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/thirumala95/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/thirumala95/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/thirumala95/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0125-valid-palindrome) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/thirumala95/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/thirumala95/LeetCode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/thirumala95/LeetCode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/thirumala95/LeetCode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/thirumala95/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/thirumala95/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/thirumala95/LeetCode/tree/master/0119-pascals-triangle-ii) |
