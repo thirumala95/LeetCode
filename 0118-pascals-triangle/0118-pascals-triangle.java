@@ -3,18 +3,19 @@ import java.util.*;
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> res = new ArrayList<>();
-        List<Integer> first = new ArrayList<>();
-        first.add(1);
-        res.add(first);
 
-        for (int r = 1; r < numRows; r++) {
-            List<Integer> prev = res.get(r - 1);
+        for (int i = 0; i < numRows; i++) {
             List<Integer> row = new ArrayList<>();
-            row.add(1); 
-            for (int i = 1; i < prev.size(); i++) {
-                row.add(prev.get(i - 1) + prev.get(i));
+
+            for (int j = 0; j <= i; j++) {
+                if (j == 0 || j == i) {
+                    row.add(1);
+                } else {
+                    int val = res.get(i - 1).get(j - 1) + res.get(i - 1).get(j);
+                    row.add(val);
+                }
             }
-            row.add(1); 
+
             res.add(row);
         }
 
