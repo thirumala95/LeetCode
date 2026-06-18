@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/thirumala95/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/thirumala95/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/thirumala95/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0482-license-key-formatting](https://github.com/thirumala95/LeetCode/tree/master/0482-license-key-formatting) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thirumala95/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/thirumala95/LeetCode/tree/master/0686-repeated-string-match) |
