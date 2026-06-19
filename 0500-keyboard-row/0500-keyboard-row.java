@@ -1,0 +1,33 @@
+class Solution {
+    public String[] findWords(String[] words) {
+        String row1 = "qwertyuiop";
+        String row2 = "asdfghjkl";
+        String row3 = "zxcvbnm";
+
+        List<String> ans = new ArrayList<>();
+
+        for (String word : words) {
+            String s = word.toLowerCase();
+
+            String row = row1;
+            if (row2.contains("" + s.charAt(0)))
+                row = row2;
+            else if (row3.contains("" + s.charAt(0)))
+                row = row3;
+
+            boolean ok = true;
+
+            for (char c : s.toCharArray()) {
+                if (!row.contains("" + c)) {
+                    ok = false;
+                    break;
+                }
+            }
+
+            if (ok)
+                ans.add(word);
+        }
+
+        return ans.toArray(new String[0]);
+    }
+}
