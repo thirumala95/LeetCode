@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/thirumala95/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/thirumala95/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/thirumala95/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/thirumala95/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thirumala95/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thirumala95/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/thirumala95/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/thirumala95/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/thirumala95/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/thirumala95/LeetCode/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/thirumala95/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/thirumala95/LeetCode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/thirumala95/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/thirumala95/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/thirumala95/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0482-license-key-formatting](https://github.com/thirumala95/LeetCode/tree/master/0482-license-key-formatting) |
+| [0500-keyboard-row](https://github.com/thirumala95/LeetCode/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thirumala95/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/thirumala95/LeetCode/tree/master/0686-repeated-string-match) |
