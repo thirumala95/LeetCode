@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/thirumala95/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/thirumala95/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/thirumala95/LeetCode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/thirumala95/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/thirumala95/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/thirumala95/LeetCode/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thirumala95/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/thirumala95/LeetCode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/thirumala95/LeetCode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/thirumala95/LeetCode/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/thirumala95/LeetCode/tree/master/0504-base-7) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/thirumala95/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thirumala95/LeetCode/tree/master/0680-valid-palindrome-ii) |
