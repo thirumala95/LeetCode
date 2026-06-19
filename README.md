@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/thirumala95/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/thirumala95/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/thirumala95/LeetCode/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/thirumala95/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/thirumala95/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0817-linked-list-components](https://github.com/thirumala95/LeetCode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/thirumala95/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/thirumala95/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/thirumala95/LeetCode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/thirumala95/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/thirumala95/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/thirumala95/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/thirumala95/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/thirumala95/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/thirumala95/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/thirumala95/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0535-encode-and-decode-tinyurl](https://github.com/thirumala95/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0860-design-circular-queue](https://github.com/thirumala95/LeetCode/tree/master/0860-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/thirumala95/LeetCode/tree/master/0901-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/thirumala95/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/thirumala95/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/thirumala95/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 ## Matrix
 |  |
 | ------- |
