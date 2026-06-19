@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/thirumala95/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/thirumala95/LeetCode/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/thirumala95/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0539-minimum-time-difference](https://github.com/thirumala95/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/thirumala95/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thirumala95/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/thirumala95/LeetCode/tree/master/0704-binary-search) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/thirumala95/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/thirumala95/LeetCode/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/thirumala95/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/thirumala95/LeetCode/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thirumala95/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thirumala95/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/thirumala95/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/thirumala95/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/thirumala95/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/thirumala95/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0539-minimum-time-difference](https://github.com/thirumala95/LeetCode/tree/master/0539-minimum-time-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/thirumala95/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/thirumala95/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0537-complex-number-multiplication](https://github.com/thirumala95/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/thirumala95/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/thirumala95/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/thirumala95/LeetCode/tree/master/0680-valid-palindrome-ii) |
