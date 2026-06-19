@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/thirumala95/LeetCode/tree/master/0509-fibonacci-number) |
 | [0537-complex-number-multiplication](https://github.com/thirumala95/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/thirumala95/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/thirumala95/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thirumala95/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thirumala95/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/thirumala95/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/thirumala95/LeetCode/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/thirumala95/LeetCode/tree/master/0481-magical-string) |
 | [0541-reverse-string-ii](https://github.com/thirumala95/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/thirumala95/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thirumala95/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/thirumala95/LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/thirumala95/LeetCode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/thirumala95/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/thirumala95/LeetCode/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/thirumala95/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/thirumala95/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/thirumala95/LeetCode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/thirumala95/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
