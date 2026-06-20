@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/thirumala95/LeetCode/tree/master/0722-remove-comments) |
 | [0735-asteroid-collision](https://github.com/thirumala95/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thirumala95/LeetCode/tree/master/0739-daily-temperatures) |
+| [0748-shortest-completing-word](https://github.com/thirumala95/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0817-linked-list-components](https://github.com/thirumala95/LeetCode/tree/master/0817-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/thirumala95/LeetCode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/thirumala95/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/thirumala95/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0609-find-duplicate-file-in-system](https://github.com/thirumala95/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0720-longest-word-in-dictionary](https://github.com/thirumala95/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0748-shortest-completing-word](https://github.com/thirumala95/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0817-linked-list-components](https://github.com/thirumala95/LeetCode/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/thirumala95/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/thirumala95/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/thirumala95/LeetCode/tree/master/0709-to-lower-case) |
 | [0720-longest-word-in-dictionary](https://github.com/thirumala95/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/thirumala95/LeetCode/tree/master/0722-remove-comments) |
+| [0748-shortest-completing-word](https://github.com/thirumala95/LeetCode/tree/master/0748-shortest-completing-word) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thirumala95/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/thirumala95/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/thirumala95/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
