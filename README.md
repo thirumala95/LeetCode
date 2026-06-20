@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0609-find-duplicate-file-in-system](https://github.com/thirumala95/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/thirumala95/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/thirumala95/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/thirumala95/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/thirumala95/LeetCode/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/thirumala95/LeetCode/tree/master/0696-count-binary-substrings) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/thirumala95/LeetCode/tree/master/0509-fibonacci-number) |
 | [0583-delete-operation-for-two-strings](https://github.com/thirumala95/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/thirumala95/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/thirumala95/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/thirumala95/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumala95/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Union Find
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/thirumala95/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/thirumala95/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/thirumala95/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/thirumala95/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thirumala95/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thirumala95/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/thirumala95/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/thirumala95/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/thirumala95/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/thirumala95/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/thirumala95/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thirumala95/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/thirumala95/LeetCode/tree/master/0901-online-stock-span) |
