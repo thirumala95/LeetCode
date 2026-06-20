@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/thirumala95/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thirumala95/LeetCode/tree/master/0739-daily-temperatures) |
 | [0748-shortest-completing-word](https://github.com/thirumala95/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0806-number-of-lines-to-write-string](https://github.com/thirumala95/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0817-linked-list-components](https://github.com/thirumala95/LeetCode/tree/master/0817-linked-list-components) |
 | [0860-design-circular-queue](https://github.com/thirumala95/LeetCode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/thirumala95/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/thirumala95/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/thirumala95/LeetCode/tree/master/0722-remove-comments) |
 | [0748-shortest-completing-word](https://github.com/thirumala95/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0806-number-of-lines-to-write-string](https://github.com/thirumala95/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thirumala95/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/thirumala95/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/thirumala95/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
