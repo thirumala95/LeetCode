@@ -1,21 +1,34 @@
-import java.util.*;
-
 class Solution {
     public String frequencySort(String s) {
 
-        int[] freq = new int[256];
-        for (char c : s.toCharArray()) freq[c]++;
+        int[] count = new int[128];
 
-        List<int[]> list = new ArrayList<>();
-        for (int i = 0; i < 256; i++)
-            if (freq[i] > 0) list.add(new int[]{freq[i], i});
+        // Count frequency
+        for (char c : s.toCharArray()) {
+            count[c]++;
+        }
 
-        list.sort((a, b) -> b[0] - a[0]); // descending
+        StringBuilder ans = new StringBuilder();
 
-        StringBuilder sb = new StringBuilder();
-        for (int[] p : list)
-            sb.append(String.valueOf((char) p[1]).repeat(p[0]));
+        // Run for length of string
+        for (int i = 0; i < s.length(); i++) {
 
-        return sb.toString();
+            int max = 0;
+
+            // Find character with maximum frequency
+            for (int j = 0; j < 128; j++) {
+                if (count[j] > count[max]) {
+                    max = j;
+                }
+            }
+
+            // Add character frequency times
+            while (count[max] > 0) {
+                ans.append((char) max);
+                count[max]--;
+            }
+        }
+
+        return ans.toString();
     }
 }
