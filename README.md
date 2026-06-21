@@ -429,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/thirumala95/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0722-remove-comments](https://github.com/thirumala95/LeetCode/tree/master/0722-remove-comments) |
 | [0748-shortest-completing-word](https://github.com/thirumala95/LeetCode/tree/master/0748-shortest-completing-word) |
+| [0796-rotate-string](https://github.com/thirumala95/LeetCode/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/thirumala95/LeetCode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/thirumala95/LeetCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/thirumala95/LeetCode/tree/master/0819-most-common-word) |
@@ -759,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/thirumala95/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/thirumala95/LeetCode/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/thirumala95/LeetCode/tree/master/0796-rotate-string) |
 ## Backtracking
 |  |
 | ------- |
