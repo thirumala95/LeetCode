@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/thirumala95/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/thirumala95/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumala95/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/thirumala95/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/thirumala95/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumala95/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/thirumala95/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/thirumala95/LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Union Find
 |  |
 | ------- |
