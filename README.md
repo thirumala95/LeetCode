@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/thirumala95/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/thirumala95/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/thirumala95/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/thirumala95/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/thirumala95/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/thirumala95/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/thirumala95/LeetCode/tree/master/0139-word-break) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/thirumala95/LeetCode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/thirumala95/LeetCode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/thirumala95/LeetCode/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/thirumala95/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/thirumala95/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/thirumala95/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/thirumala95/LeetCode/tree/master/0120-triangle) |
