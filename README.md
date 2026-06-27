@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/thirumala95/LeetCode/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/thirumala95/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/thirumala95/LeetCode/tree/master/0306-additive-number) |
 | [0344-reverse-string](https://github.com/thirumala95/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thirumala95/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/thirumala95/LeetCode/tree/master/0383-ransom-note) |
@@ -856,6 +857,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/thirumala95/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/thirumala95/LeetCode/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+| [0306-additive-number](https://github.com/thirumala95/LeetCode/tree/master/0306-additive-number) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/thirumala95/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 ## Number Theory
 |  |
