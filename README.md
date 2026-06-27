@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/thirumala95/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/thirumala95/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/thirumala95/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/thirumala95/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/thirumala95/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/thirumala95/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/thirumala95/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/thirumala95/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/thirumala95/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/thirumala95/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/thirumala95/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/thirumala95/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/thirumala95/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
@@ -851,4 +853,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/thirumala95/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/thirumala95/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
