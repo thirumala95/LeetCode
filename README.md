@@ -431,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/thirumala95/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/thirumala95/LeetCode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/thirumala95/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/thirumala95/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thirumala95/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/thirumala95/LeetCode/tree/master/0383-ransom-note) |
@@ -824,6 +825,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/thirumala95/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/thirumala95/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/thirumala95/LeetCode/tree/master/0130-surrounded-regions) |
+| [0301-remove-invalid-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -850,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/thirumala95/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/thirumala95/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/thirumala95/LeetCode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0842-split-array-into-fibonacci-sequence](https://github.com/thirumala95/LeetCode/tree/master/0842-split-array-into-fibonacci-sequence) |
 ## Number Theory
 |  |
