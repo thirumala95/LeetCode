@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/thirumala95/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/thirumala95/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirumala95/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 | [2058-concatenation-of-array](https://github.com/thirumala95/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/thirumala95/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thirumala95/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/thirumala95/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/thirumala95/LeetCode/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirumala95/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 | [2383-add-two-integers](https://github.com/thirumala95/LeetCode/tree/master/2383-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/thirumala95/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirumala95/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/thirumala95/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/thirumala95/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/thirumala95/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/thirumala95/LeetCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirumala95/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thirumala95/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/thirumala95/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/thirumala95/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/thirumala95/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirumala95/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirumala95/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thirumala95/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1095,20 +1099,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/thirumala95/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/thirumala95/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/thirumala95/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/thirumala95/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/thirumala95/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/thirumala95/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/thirumala95/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/thirumala95/LeetCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
