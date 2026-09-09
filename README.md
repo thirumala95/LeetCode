@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/thirumala95/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/thirumala95/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/thirumala95/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/thirumala95/LeetCode/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/thirumala95/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/thirumala95/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/thirumala95/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/thirumala95/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/thirumala95/LeetCode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/thirumala95/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/thirumala95/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/thirumala95/LeetCode/tree/master/0258-add-digits) |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/thirumala95/LeetCode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thirumala95/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/thirumala95/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1115,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/thirumala95/LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/thirumala95/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thirumala95/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -1181,4 +1185,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/thirumala95/LeetCode/tree/master/1510-stone-game-iv) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
