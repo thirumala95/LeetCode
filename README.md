@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/thirumala95/LeetCode/tree/master/0817-linked-list-components) |
 | [0819-most-common-word](https://github.com/thirumala95/LeetCode/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/thirumala95/LeetCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0835-image-overlap](https://github.com/thirumala95/LeetCode/tree/master/0835-image-overlap) |
 | [0860-design-circular-queue](https://github.com/thirumala95/LeetCode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/thirumala95/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/thirumala95/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -925,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/thirumala95/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/thirumala95/LeetCode/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/thirumala95/LeetCode/tree/master/0212-word-search-ii) |
+| [0835-image-overlap](https://github.com/thirumala95/LeetCode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/thirumala95/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/thirumala95/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [2643-row-with-maximum-ones](https://github.com/thirumala95/LeetCode/tree/master/2643-row-with-maximum-ones) |
