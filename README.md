@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/thirumala95/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/thirumala95/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thirumala95/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/thirumala95/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/thirumala95/LeetCode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/thirumala95/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/thirumala95/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1211,4 +1212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/thirumala95/LeetCode/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/thirumala95/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
