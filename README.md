@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thirumala95/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thirumala95/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/thirumala95/LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/thirumala95/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/thirumala95/LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/thirumala95/LeetCode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/thirumala95/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -461,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/thirumala95/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/thirumala95/LeetCode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/thirumala95/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/thirumala95/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/thirumala95/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thirumala95/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirumala95/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/thirumala95/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/thirumala95/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thirumala95/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/thirumala95/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/thirumala95/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/thirumala95/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thirumala95/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/thirumala95/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/thirumala95/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thirumala95/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/thirumala95/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thirumala95/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thirumala95/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thirumala95/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1006,6 +1010,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/thirumala95/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/thirumala95/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thirumala95/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/thirumala95/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/thirumala95/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/thirumala95/LeetCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/thirumala95/LeetCode/tree/master/3620-network-recovery-pathways) |
